@@ -1,4 +1,4 @@
-time to compute the first n primes:  
+# time to compute the first n primes:  
 
 n         | default_prime | sieve_prime 
 1024      |   0.007s      |    0.004s 
